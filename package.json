@@ -3,5 +3,12 @@
   "version": "1.0.0",
   "repository": "git@github.com:skylinebnr334/Fukukouou_Score_Input_System.git",
   "author": "skylinebnr334 <168154498+skylinebnr334@users.noreply.github.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "ts-loader": "^9.5.2",
+    "typescript": "^5.8.3",
+    "webpack": "^5.99.8",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.1"
+  }
 }
