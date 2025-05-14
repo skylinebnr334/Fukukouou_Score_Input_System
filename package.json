@@ -22,5 +22,8 @@
     "react-dom": "^19.1.0",
     "react-router-dom": "^7.6.0",
     "reconnecting-websocket": "^4.4.0"
-  }
+  },
+	"scripts": {
+		"start": "cross-env NODE_ENV=\"development\"  webpack-dev-server -c webpack.config.js"
+	}
 }
